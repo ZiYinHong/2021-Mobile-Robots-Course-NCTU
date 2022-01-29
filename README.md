@@ -26,5 +26,5 @@
     <img src="./cool robot show/our_robot.jpg" alt="our_robot" width="200"/>
 
   + demo_video <br>
-    <video src="./cool robot show/demo_video.mp4" width=300/>
+    **/cool robot show/demo_video.mp4**
     
