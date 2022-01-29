@@ -4,7 +4,7 @@
 
 #### Materials
 + Raspberry Pi 3 Model B
-+ Arduino UNO
++ Arduino UNO <br>
 <img src="https://media.digikey.com/Photos/Raspberry%20Pi/MFG_RASPBERRY-PI-3-MODEL-B.jpg" alt="Raspberry Pi 3 Model B" width="200"/><img src="https://www.taiwansensor.com.tw/wp-content/uploads/2018/04/a000066_iso_4.jpg" alt="Arduino UNO" width="200"/>
 
 #### My mobile robot (use on checkpoint 1~4)
