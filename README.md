@@ -22,7 +22,9 @@
 + ch4 (& hockey robot contest)
 
 + (cool robot show) final project
-  <img src="./cool robot show/our_robot.jpg" alt="our_robot" width="200"/><br>
+ + our_robot
+  <img src="./cool robot show/our_robot.jpg" alt="our_robot" width="200"/>
+ + demo_video <br>
   <video width="320" height="240" controls>
-    <source src="./cool robot show/demo_video.mp4" type="video/mp4">
+  <source src="./cool robot show/demo_video.mp4" type="video/mp4">
   </video>
