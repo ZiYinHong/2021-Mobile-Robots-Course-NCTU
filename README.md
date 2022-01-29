@@ -1,4 +1,4 @@
-## Mobile Robots Course 自走式機器人 @ NYCU 1101
+## Mobile Robots Course 自走式機器人 @ NYCU 2021
 ### fall semester<br><br>
 
 
