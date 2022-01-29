@@ -8,7 +8,7 @@
 <img src="https://media.digikey.com/Photos/Raspberry%20Pi/MFG_RASPBERRY-PI-3-MODEL-B.jpg" alt="Raspberry Pi 3 Model B" width="200"/><img src="https://www.taiwansensor.com.tw/wp-content/uploads/2018/04/a000066_iso_4.jpg" alt="Arduino UNO" width="200"/>
 
 #### My mobile robot (use on checkpoint 1~4)
-<img src="./my_mobile_robot.jpg" alt="my_mobile_robot" width="200"/><br><br>
+<img src="my_mobile_robot.png" alt="my_mobile_robot" width="200"/><br><br>
 
 
 
@@ -25,4 +25,4 @@
  + our_robot
   <img src="./cool robot show/our_robot.jpg" alt="our_robot" width="200"/>
  + demo_video <br>
-   ![demo_video]("./cool robot show/demo_video.mp4")
+   <img src="./cool robot show/demo_video.mp4" type="video/mp4"/>
