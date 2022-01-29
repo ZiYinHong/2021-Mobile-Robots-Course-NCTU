@@ -23,7 +23,7 @@
 
 + (cool robot show) final project
   + our_robot <br>
-    <img src="./cool robot show/our_robot.jpg" alt="our_robot" width="200"/>
+    <img src="./cool robot show/our_robot.jpg" alt="our_robot" width="250"/>
 
   + demo_video <br>
     **/cool robot show/demo_video.mp4**
